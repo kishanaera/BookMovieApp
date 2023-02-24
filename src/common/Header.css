@@ -1,0 +1,77 @@
+.headingdiv {
+    height: 36px;
+    background-color: #222;
+    }
+
+.headerimg{
+    height: 35px;
+    background-color: #ff7f7f;
+}
+.headerBtn {
+    margin-top: 20;
+    float: right;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.subHeader{
+    background-color: #ff9999;
+}
+.subHeader p{
+    top: 0px;
+    text-align: center;
+    padding: 5px;
+}
+
+.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  .scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  .scrollmenu a:hover {
+    background-color: #777;
+  }
+
+  .scrollmenu a img {
+    height: 150px;
+    width: 200px;
+  }
+  .middleBanner{
+    display: inline-block;
+    margin-right: 30px;
+  }
+.findMovied1 p {
+    font-weight: bold;
+}
+
+  .findMovied {
+    float: left;
+  }
+  .findMovied1 {
+    float: right;
+  }
+  .findMovied1 input {
+    margin-bottom: 20px;
+    width: 200px;
+  }
+  .findMovied1 select {
+    margin-bottom: 20px;
+    width: 210px;
+  }
